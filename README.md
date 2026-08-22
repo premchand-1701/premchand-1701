@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Surabu Premchand 👋
 
-<!--
-**premchand-1701/premchand-1701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE student at SR University, Warangal, focused on becoming a strong software engineer.
 
-Here are some ideas to get you started:
+## Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python and problem solving
+- Data Structures & Algorithms
+- SQL and database fundamentals
+- Backend development and REST APIs
+- Git and GitHub
+- AI-enabled software engineering
+
+## Current focus
+
+Building strong fundamentals first, then progressing toward backend and full-stack software engineering with responsible AI-assisted development.
+
+## Projects
+
+My portfolio is currently under development. I'm building projects progressively as I strengthen my engineering skills.
+
+## Connect
+
+- LinkedIn: [Surabu Premchand](https://www.linkedin.com/in/surabu-premchand-30036032b/)
