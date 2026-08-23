@@ -1,24 +1,46 @@
 # Hi, I'm Surabu Premchand 👋
 
-B.Tech CSE student at SR University, Warangal, focused on becoming a strong software engineer.
+🎓 B.Tech Computer Science and Engineering student at SR University, Warangal.
 
-## Currently learning
+I'm building my skills in software development, problem solving, data analytics and machine learning.
 
-- Python and problem solving
+## 💻 Skills
+
+- Python
 - Data Structures & Algorithms
-- SQL and database fundamentals
-- Backend development and REST APIs
-- Git and GitHub
-- AI-enabled software engineering
+- SQL
+- Machine Learning
+- Pandas & NumPy
+- Scikit-learn
+- HTML & CSS
+- Git & GitHub
 
-## Current focus
+## 🚀 Featured Project
 
-Building strong fundamentals first, then progressing toward backend and full-stack software engineering with responsible AI-assisted development.
+### Medical Insurance Cost Prediction
 
-## Projects
+Machine learning project that compares multiple regression models to predict medical insurance costs.
 
-My portfolio is currently under development. I'm building projects progressively as I strengthen my engineering skills.
+**Tech used:**
+Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • Joblib
 
-## Connect
+[View Project](https://github.com/premchand-1701/medical-insurance-cost-prediction)
 
-- LinkedIn: [Surabu Premchand](https://www.linkedin.com/in/surabu-premchand-30036032b/)
+## 📚 Currently Learning
+
+- Python
+- Data Structures & Algorithms
+- SQL
+- Backend Development
+- REST APIs
+- Machine Learning
+- Git & GitHub
+
+## 🎯 Current Goal
+
+Build strong programming fundamentals and develop practical projects that demonstrate real-world software engineering skills.
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/premchand-1701
+- LinkedIn: https://www.linkedin.com/in/surabu-premchand-30036032b/
