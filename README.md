@@ -2,94 +2,123 @@
 
 # SURABU PREMCHAND
 
-`B.Tech CSE` · `Python` · `DSA` · `AI/ML`
+### B.Tech CSE Student · Python · DSA · AI/ML · Software Development
 
-**building → breaking → learning → rebuilding**
+Building things. Solving problems. Learning as I go.
 
-<br>
-
-<a href="https://surabu-premchand-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/surabu-premchand/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a href="https://github.com/premchand-1701">
-  <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[🌐 Portfolio](https://surabu-premchand-portfolio.vercel.app) · [💼 LinkedIn](https://www.linkedin.com/in/surabu-premchand/) · [📧 Email](mailto:surabupremchand@gmail.com)
 
 </div>
 
 ---
 
-```text
-/ currently
-LEARNING    Python · DSA · SQL · Machine Learning
-BUILDING    Real-world software & ML projects
-EXPLORING   Deep Learning · Computer Vision · Backend
-FOCUS       Problem solving + strong fundamentals
-/ selected builds
-01 · Medical Insurance Cost Prediction
-An end-to-end machine learning project for predicting medical insurance costs.
-Python · Pandas · NumPy · Scikit-learn
-- Data exploration & preprocessing
-- Feature encoding
-- Regression model comparison
+## `whoami`
+
+I'm **SURABU PREMCHAND**, a Computer Science and Engineering student at **SR University, Warangal**.
+
+I enjoy understanding how things work, building practical projects, and improving through hands-on problem solving.
+
+Right now, I'm focused on strengthening my fundamentals in **Python, Data Structures & Algorithms, SQL, Machine Learning, and Software Development**.
+
+---
+
+## `currently`
+
+| | |
+|---|---|
+| 🧠 Learning | Python · DSA · SQL · Machine Learning |
+| 🔨 Building | Real-world software & ML projects |
+| 🔍 Exploring | Deep Learning · Computer Vision · Backend |
+| 🎯 Focus | Problem solving & strong fundamentals |
+
+---
+
+## `selected builds`
+
+### `01` — Medical Insurance Cost Prediction
+
+An end-to-end machine learning project for predicting medical insurance costs from demographic and lifestyle factors.
+
+**Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn**
+
+- Exploratory data analysis
+- Data preprocessing & feature encoding
+- Multiple regression models
 - MAE · RMSE · R² evaluation
 - Gradient Boosting selected as the best-performing model
-- R²: 0.8795
-→ view repository
-02 · AI Wildfire Detection
+- **R²: 0.8795**
+
+→ [View Repository](https://github.com/premchand-1701/medical-insurance-cost-prediction)
+
+---
+
+### `02` — AI Wildfire Detection
+
 A computer vision project exploring automated wildfire detection using image-based deep learning.
-Python · Computer Vision · Deep Learning
-Currently working through dataset preparation, preprocessing, model development and evaluation.
-STATUS: IN PROGRESS
-03 · Before You Go
-A practical software idea built around a simple problem:
-What if you could avoid forgetting the important things before leaving?
+
+**Python · Computer Vision · Deep Learning**
+
+Currently working on dataset preparation, image preprocessing, model development and evaluation.
+
+`STATUS: IN PROGRESS`
+
+---
+
+### `03` — Before You Go
+
+A practical software project built around a simple problem:
+
+> What if you could avoid forgetting important things before leaving?
 
 Currently being developed and refined as an individual project.
-STATUS: BUILDING
-/ toolkit
-LANGUAGES
-Python · C · SQL
 
-DATA / ML
-Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn
+`STATUS: BUILDING`
 
-DEVELOPMENT
-Git · GitHub · VS Code
+---
 
-EXPLORING
-Deep Learning · Computer Vision · Backend · REST APIs
-/ engineering mindset
-01  Understand the problem
-02  Build the simplest useful version
-03  Test what actually works
-04  Learn from what breaks
-05  Improve
-06  Repeat
-/ now
-I'm not trying to know everything.
-I'm trying to get better at building things that work.
+## `toolkit`
 
+**Languages**
+
+`Python` `C` `SQL`
+
+**Data & Machine Learning**
+
+`Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
+
+**Development**
+
+`Git` `GitHub` `VS Code`
+
+**Exploring**
+
+`Deep Learning` `Computer Vision` `Backend` `REST APIs`
+
+---
+
+## `how i build`
+
+**01** Understand the problem  
+**02** Build the simplest useful version  
+**03** Test what actually works  
+**04** Learn from what breaks  
+**05** Improve  
+**06** Repeat
+
+---
+
+## `currently looking for`
+
+Opportunities where I can work on real problems, learn from experienced people, contribute to a team, and grow as a software engineer.
+
+---
 
 <div align="center">
 
-LEARN · BUILD · IMPROVE · REPEAT
+### LEARN · BUILD · IMPROVE · REPEAT
 
-<a href="https://surabu-premchand-portfolio.vercel.app">
-  → explore my portfolio
-</a>
+<br>
+
+**[→ Explore My Portfolio](https://surabu-premchand-portfolio.vercel.app)**
 
 </div>
-```
-$ whoami
-
-SURABU PREMCHAND
-Computer Science & Engineering Student
-SR University · Warangal, India
-
-I like understanding how things work,
-building them, breaking them,
-and figuring out how to make them better.
