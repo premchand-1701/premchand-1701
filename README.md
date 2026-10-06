@@ -1,124 +1,222 @@
-<div align="center">
+<div align="center"><span style="color:#00FF88">S. PREMCHAND</span>
 
-# SURABU PREMCHAND
+"B.Tech CSE" · "Python" · "DSA" · "AI/ML" · "Software Development"
 
-### B.Tech CSE Student · Python · DSA · AI/ML · Software Development
+Building in public. Learning every day. Shipping real projects.
 
-Building things. Solving problems. Learning as I go.
+<br><a href="https://github.com/premchand-1701">
+  <img src="https://img.shields.io/badge/GITHUB-00FF88?style=for-the-badge&logo=github&logoColor=000000" />
+</a>
+<a href="https://surabu-premchand-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-00FF88?style=for-the-badge&logo=vercel&logoColor=000000" />
+</a>
+<a href="https://www.linkedin.com/in/surabu-premchand/">
+  <img src="https://img.shields.io/badge/LINKEDIN-00FF88?style=for-the-badge&logo=linkedin&logoColor=000000" />
+</a></div>---
 
-[🌐 Portfolio](https://surabu-premchand-portfolio.vercel.app) · [💼 LinkedIn](https://www.linkedin.com/in/surabu-premchand/) · [📧 Email](mailto:surabupremchand@gmail.com)
+<div align="center">"// SYSTEM ONLINE"
 
-</div>
+┌──────────────────────────────────────────────────────┐
+│  USER       : S. PREMCHAND                           │
+│  ROLE       : COMPUTER SCIENCE STUDENT               │
+│  UNIVERSITY : SR UNIVERSITY · WARANGAL               │
+│  FOCUS      : SOFTWARE ENGINEERING                   │
+│  STATUS     : BUILDING                               │
+└──────────────────────────────────────────────────────┘
+
+</div>---
+
+"01" — PROFILE SIGNAL
+
+<table>
+<tr>
+<td width="50%">"whoami"
+
+I'm S. Premchand, a Computer Science & Engineering student at SR University, Warangal.
+
+I'm focused on building strong fundamentals and becoming a better software engineer through consistent coding, problem solving and real-world projects.
+
+</td><td width="50%">"currently"
+
+LEARNING
+├── Python
+├── Data Structures & Algorithms
+├── SQL
+├── Machine Learning
+└── Software Development
+
+EXPLORING
+├── Deep Learning
+├── Computer Vision
+├── Backend Development
+└── REST APIs
+
+</td>
+</tr>
+</table>---
+
+"02" — GITHUB SIGNAL
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=premchand-1701&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&ring_color=00FF88" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premchand-1701&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&icon_color=00FF88" height="180"/></div>---
+
+"03" — CONTRIBUTION ACTIVITY
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=premchand-1701&bg_color=0D1117&color=FFFFFF&line=00FF88&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/></div>---
+
+"04" — LANGUAGE STACK
+
+<div align="center"><img src="https://skillicons.dev/icons?i=python,c,cpp,sql,git,github,vscode&theme=dark" /><br><br>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,matplotlib&theme=dark" /></div>---
+
+"05" — FEATURED REPOSITORIES
+
+<table>
+<tr>
+<td width="50%">🟢 Medical Insurance Cost Prediction
+
+Machine learning project for predicting medical insurance costs from demographic and lifestyle factors.
+
+Stack
+
+"Python" "Pandas" "NumPy" "Scikit-learn"
+
+Includes
+
+- Data preprocessing
+- Exploratory analysis
+- Feature encoding
+- Regression models
+- Model evaluation
+- Performance comparison
+
+<a href="https://github.com/premchand-1701/medical-insurance-cost-prediction">"→ VIEW REPOSITORY"
+
+</a></td><td width="50%">🟢 Python Learning
+
+A structured journey through Python fundamentals, problem solving and coding practice.
+
+Focus
+
+"Python" "Logic" "Problem Solving"
+
+Includes
+
+- Python fundamentals
+- Conditions
+- Loops
+- Functions
+- Strings
+- Lists
+- Algorithms
+- Coding problems
+
+<a href="https://github.com/premchand-1701">"→ VIEW GITHUB"
+
+</a></td>
+</tr><tr>
+<td width="50%">🟢 AI Wildfire Detection
+
+Computer vision project exploring automated wildfire detection using deep learning.
+
+Stack
+
+"Python" "Computer Vision" "Deep Learning"
+
+Status
+
+"IN PROGRESS"
+
+</td><td width="50%">🟢 Before You Go
+
+A practical software project designed around preventing people from forgetting important things before leaving.
+
+Status
+
+"BUILDING"
+
+</td>
+</tr>
+</table>---
+
+"06" — DEVELOPMENT STACK
+
+<div align="center">AREA| TECHNOLOGIES
+Languages| Python · C · C++ · SQL
+DSA| Algorithms · Problem Solving · Data Structures
+Data| Pandas · NumPy · Matplotlib
+Machine Learning| Scikit-learn · Regression · Classification
+AI| Deep Learning · Computer Vision
+Development| Git · GitHub · VS Code
+Exploring| Backend · REST APIs
+
+</div>---
+
+"07" — HOW I BUILD
+
+                    ┌──────────────────┐
+                    │   FIND PROBLEM   │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │ UNDERSTAND IT    │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │ BUILD VERSION 1  │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │ TEST + DEBUG     │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │ LEARN + IMPROVE  │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │ SHIP IT          │
+                    └──────────────────┘
 
 ---
 
-## `whoami`
+"08" — CURRENT MISSION
 
-I'm **SURABU PREMCHAND**, a Computer Science and Engineering student at **SR University, Warangal**.
+[████████████████████░░]  BUILDING
 
-I enjoy understanding how things work, building practical projects, and improving through hands-on problem solving.
-
-Right now, I'm focused on strengthening my fundamentals in **Python, Data Structures & Algorithms, SQL, Machine Learning, and Software Development**.
-
----
-
-## `currently`
-
-| | |
-|---|---|
-| 🧠 Learning | Python · DSA · SQL · Machine Learning |
-| 🔨 Building | Real-world software & ML projects |
-| 🔍 Exploring | Deep Learning · Computer Vision · Backend |
-| 🎯 Focus | Problem solving & strong fundamentals |
+→ Strengthen Python
+→ Master DSA
+→ Improve problem solving
+→ Build practical projects
+→ Learn backend development
+→ Develop stronger AI/ML skills
+→ Contribute consistently
+→ Become placement ready
 
 ---
 
-## `selected builds`
+"09" — GITHUB STREAK
 
-### `01` — Medical Insurance Cost Prediction
+<div align="center"><img src="https://streak-stats.demolab.com?user=premchand-1701&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="80%"/></div>---
 
-An end-to-end machine learning project for predicting medical insurance costs from demographic and lifestyle factors.
+"10" — CONNECT
 
-**Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn**
+<div align="center">"LET'S BUILD SOMETHING USEFUL."
 
-- Exploratory data analysis
-- Data preprocessing & feature encoding
-- Multiple regression models
-- MAE · RMSE · R² evaluation
-- Gradient Boosting selected as the best-performing model
-- **R²: 0.8795**
+<br><a href="https://surabu-premchand-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/PORTFOLIO-00FF88?style=for-the-badge&logo=vercel&logoColor=000000"/>
+</a><a href="https://www.linkedin.com/in/surabu-premchand/">
+<img src="https://img.shields.io/badge/LINKEDIN-00FF88?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+</a><a href="https://github.com/premchand-1701">
+<img src="https://img.shields.io/badge/GITHUB-00FF88?style=for-the-badge&logo=github&logoColor=000000"/>
+</a></div>---
 
-→ [View Repository](https://github.com/premchand-1701/medical-insurance-cost-prediction)
+<div align="center">╔══════════════════════════════════════════════════╗
+║                                                  ║
+║       LEARN  •  BUILD  •  IMPROVE  •  REPEAT   ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
 
----
-
-### `02` — AI Wildfire Detection
-
-A computer vision project exploring automated wildfire detection using image-based deep learning.
-
-**Python · Computer Vision · Deep Learning**
-
-Currently working on dataset preparation, image preprocessing, model development and evaluation.
-
-`STATUS: IN PROGRESS`
-
----
-
-### `03` — Before You Go
-
-A practical software project built around a simple problem:
-
-> What if you could avoid forgetting important things before leaving?
-
-Currently being developed and refined as an individual project.
-
-`STATUS: BUILDING`
-
----
-
-## `toolkit`
-
-**Languages**
-
-`Python` `C` `SQL`
-
-**Data & Machine Learning**
-
-`Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
-
-**Development**
-
-`Git` `GitHub` `VS Code`
-
-**Exploring**
-
-`Deep Learning` `Computer Vision` `Backend` `REST APIs`
-
----
-
-## `how i build`
-
-**01** Understand the problem  
-**02** Build the simplest useful version  
-**03** Test what actually works  
-**04** Learn from what breaks  
-**05** Improve  
-**06** Repeat
-
----
-
-## `currently looking for`
-
-Opportunities where I can work on real problems, learn from experienced people, contribute to a team, and grow as a software engineer.
-
----
-
-<div align="center">
-
-### LEARN · BUILD · IMPROVE · REPEAT
-
-<br>
-
-**[→ Explore My Portfolio](https://surabu-premchand-portfolio.vercel.app)**
+"// END OF README"
 
 </div>
